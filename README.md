@@ -15,16 +15,19 @@
 
  **<h3 align="left">🚀 Passionate developer with expertise in Flutter, Java, and Python, crafting seamless cross-platform applications. Skilled in both front-end and back-end development, with foundational knowledge in JavaScript and Swift. Focused on delivering high-performance, user-centered solutions that scale.</h3>**
 
+**<br>**
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **Learning how to debug my life**
 - 🌱 I'm currently learning: **📚 Java EE**
 - 💬 Ask me about: **💡 Flutter, Java, Python, RESTful APIs**
 
- **<h3 align="center">Skills</h3>**
+ **<br>**
+ **<h3 align="left">Skills</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36" alt="Flutter" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="36" alt="Java" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="36" alt="Android" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="36" alt="iOS" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="36" alt="Dart" style="margin-right: 18px"></div>
 
+ **<br>**
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
