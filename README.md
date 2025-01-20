@@ -25,10 +25,12 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36" alt="Flutter" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="36" alt="Java" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="36" alt="Android" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="36" alt="iOS" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="36" alt="Dart" style="margin-right: 18px"></div>
 
- **<h3 align="center">GitHub Stats</h3>**
+ **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img widhh="40%" src="https://github-readme-stats.vercel.app/api?username=Al3x18&show_icons=true&theme=github-compact&hide=contribs,stars&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img widhh="50%" src="https://github-readme-stats.vercel.app/api?username=Al3x18&show_icons=true&theme=github-compact&hide=contribs,stars&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="left">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Al3x18&theme=github-compact&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
