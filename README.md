@@ -28,8 +28,7 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Al3x18&show_icons=true&theme=react" alt="GitHub Stats" />
+  <img widhh="48%" src="https://github-readme-stats.vercel.app/api?username=Al3x18&show_icons=true&theme=react" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Al3x18&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Al3x18)](https://git.io/streak-stats)
 
