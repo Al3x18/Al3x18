@@ -31,6 +31,6 @@
   <img widhh="50%" src="https://github-readme-stats.vercel.app/api?username=Al3x18&show_icons=true&theme=github-compact&hide=contribs,stars&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="left">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Al3x18&theme=github-compact&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Al3x18&theme=github-compact&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
