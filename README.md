@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="blueprint-dev-icon.png" alt="Logo" />
+</div>
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
