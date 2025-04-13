@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="blueprint-dev-icon.png" alt="Logo" width="200" />
+  <img src="blueprint-dev-icon.png" alt="Logo" width="600" />
 </div>
 <div id="toc">
   <ul align="center" style="list-style: none">
