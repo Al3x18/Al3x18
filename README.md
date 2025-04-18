@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./blueprint-dev-icon.jpg" alt="Alex De Pasquale Logo" width="350"/>
+  <img src="./blueprint-dev-icon.png" alt="Alex De Pasquale Logo" width="350"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm <u>Alex De Pasquale!</u></h1>
