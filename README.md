@@ -2,7 +2,7 @@
   <img src="./blueprint-dev-icon.png" alt="Alex De Pasquale Logo" width="350"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm <u>Alex De Pasquale!</u></h1>
+<h1 align="center">Hi 👋, I'm Alex De Pasquale!</h1>
 
 <p align="center">
   Versatile developer with solid experience in <strong>Flutter</strong>, <strong>Python</strong>, and <strong>Java</strong>.<br/>
