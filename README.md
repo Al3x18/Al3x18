@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Alex De Pasquale!</h1>
 
 <p align="center">
-  Versatile developer with solid experience in <strong>Flutter</strong>, <strong>Python</strong>, <strong>Java</strong> and <strong>C</strong>strong>.<br/>
+  Versatile developer with solid experience in <strong>Flutter</strong>, <strong>Python</strong>, <strong>Java</strong> and <strong>C</strong>.<br/>
   Currently diving deeper into native iOS development with <strong>Swift</strong> and web interfaces with <strong>React</strong>, always aiming to build efficient software solutions and intuitive apps.
 </p>
 
